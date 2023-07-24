@@ -10,7 +10,7 @@ import sys
 #     print("\n\n Run like \n python3 client.py < serverip address > \n\n")
 #     exit(1)
 
-
+# snkfj
 # Now we can create socket object
 s = socket.socket()
 
